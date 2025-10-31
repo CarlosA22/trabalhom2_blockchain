@@ -1,0 +1,9 @@
+{
+  "node_id": "node2",
+  "host": "0.0.0.0",
+  "port": 5000,
+  "difficulty": 3,
+  "reward": 10,
+  "blockchain_file": "data/blockchain_node2.json",
+  "peers_file": "configs/peers.txt"
+}
